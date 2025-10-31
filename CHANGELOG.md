@@ -1,0 +1,6 @@
+- b86ef62: docs: Add FAQ section (nrokzzzz, 10 minutes ago)
+- 824b10d: Resolve all conflicts (nrokzzzz, 17 minutes ago)
+- 02011a5: updating dev (Hanu Gupta, 8 days ago)
+- 0312c6f: updating main (Hanu Gupta, 8 days ago)
+- fadfd24: Revise README for DevOps Simulator project (Hanu Gupta, 8 days ago)
+- ae630eb: Initial commit (Hanu Gupta, 8 days ago)
